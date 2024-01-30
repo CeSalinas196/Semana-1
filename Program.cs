@@ -84,7 +84,6 @@
         batman.MostrarInformacion();
         mujerMaravilla.MostrarInformacion();
         flash.MostrarInformacion();
-        linternaVerde.MostrarInformacion();
         spiderman.MostrarInformacion();
 
         Console.ReadLine();
