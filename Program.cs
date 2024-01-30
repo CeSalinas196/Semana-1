@@ -24,7 +24,7 @@ class Program
         // Mostrar la información del SuperHeroe
         superman.MostrarInformacion();
 
-        // Crear más SuperHeroes
+        // Datos de SuperHeroes
         SuperHeroe batman = new SuperHeroe
         {
             Nombre = "Batman",
@@ -95,7 +95,7 @@ class Program
             }
         };
 
-        // Mostrar la información de los SuperHeroes adicionales, incluido Spiderman
+        // Mostrar la información de los SuperHeroes
         batman.MostrarInformacion();
         mujerMaravilla.MostrarInformacion();
         flash.MostrarInformacion();
