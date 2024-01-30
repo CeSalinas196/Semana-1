@@ -1,5 +1,4 @@
-﻿
-class Program
+﻿class Program
 {
     static void Main()
     {
@@ -64,20 +63,6 @@ class Program
                 Nombre = "Velocidad",
                 Descripcion = "Capacidad de correr a velocidades sobrehumanas",
                 Nivel = 10
-            }
-        };
-
-        SuperHeroe linternaVerde = new SuperHeroe
-        {
-            Nombre = "Linterna Verde",
-            IdentidadSecreta = "Hal Jordan",
-            Ciudad = "Coast City",
-            PuedeVolar = true,
-            SuperPoder = new SuperPoder
-            {
-                Nombre = "Anillo de Poder",
-                Descripcion = "Creación de construcciones sólidas con el anillo",
-                Nivel = 8
             }
         };
 
